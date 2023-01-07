@@ -5,7 +5,7 @@ public class W3GreedyAlgorithm {
 
     public void printAge(int age) {
         System.out.println(age);
-        System.out.println("11");
+        System.out.println("12");
     }
 
     public static void main(String[] args) {
