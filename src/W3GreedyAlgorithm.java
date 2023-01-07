@@ -3,10 +3,12 @@ public class W3GreedyAlgorithm {
         System.out.println(name);
     }
 
+    public void printAge(int age) {
+        System.out.println(age);
+    }
+
     public static void main(String[] args) {
 
     }
-    git clone <https://github.com/PhucGiaNguyen99/AlgorithmicToolbox.git>
 
-    git init
 }
